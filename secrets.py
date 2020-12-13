@@ -1,0 +1,2 @@
+username = 'YourUsernameInQuotes'
+password = 'YourPasswordInQuotes'
